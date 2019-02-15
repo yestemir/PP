@@ -54,7 +54,7 @@ namespace Task2
     {
         static void Main(string[] args)
         {
-            DirectoryInfo dir = new DirectoryInfo("C:\Users\Gaziza.USER\source");//make a reference to a directory
+            DirectoryInfo dir = new DirectoryInfo("C:\\Users\\Gaziza.USER\\source");//make a reference to a directory
 
             Layer l = new Layer//call constructor with parameters
             {
